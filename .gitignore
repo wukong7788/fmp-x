@@ -1,3 +1,2 @@
-!/dist/
 .idea
-__pycache__
+dist
